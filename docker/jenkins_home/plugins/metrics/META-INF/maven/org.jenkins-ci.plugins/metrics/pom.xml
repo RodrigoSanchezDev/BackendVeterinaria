@@ -126,7 +126,7 @@
     <dependency>
       <groupId>io.dropwizard.metrics</groupId>
       <artifactId>metrics-json</artifactId>
-      <version>4.2.21</version>
+      <version>4.2.30</version>
       <scope>compile</scope>
       <exclusions>
         <exclusion>
